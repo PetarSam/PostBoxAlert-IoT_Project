@@ -6,6 +6,8 @@ Electrical components required:
  3. 3.7V battery
  4. SIM800L GSM Module 
  5. SIM card
+ 6. 10K resistor
+ 7. 20K resistor
 
 
 The schema: 
