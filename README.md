@@ -10,6 +10,6 @@ Electrical components required:
  7. 20K resistor
 
 
-The schema: 
+## The schema: 
 
 <img src="https://i.ibb.co/HzbPjjC/Screenshot-2020-03-08-at-23-33-59.png" width="100%" />
