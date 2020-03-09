@@ -1,6 +1,6 @@
 # PostBoxAlert-IoT_Project
 
-# Electrical components required:
+## Electrical components required:
  1. Arduino 
  2. Tilt switch
  3. 3.7V battery
