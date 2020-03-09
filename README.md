@@ -12,4 +12,4 @@ Electrical components required:
 
 The schema: 
 
-<img src="https://i.ibb.co/DLZ7TKf/Screenshot-2020-03-08-at-23-33-59.png" width="100%" />
+<img src="https://i.ibb.co/HzbPjjC/Screenshot-2020-03-08-at-23-33-59.png" width="100%" />
